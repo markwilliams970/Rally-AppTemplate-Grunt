@@ -13,14 +13,14 @@ To develop, you'll need to set up an environment, following these steps (in deta
 3. Install grunt. Think of grunt as a JavaScript makefile.
 
 
-1. Install git
+1. Install git.
 We use github as our version control system. If you're not a Rally developer, you'll want to fork the repository and then make a clone locally. Follow the instructions on github.
 
-2. Install node.js
+2. Install node.js.
 This really is as simple as going to http://nodejs.org/ and pushing the Install button. Afterward, type this command to see that it installed:
 `npm --version`
 
-3. Install grunt
+3. Install grunt.
 From the command line, use the node package manager to install grunt. On linux/mac, you might have to use sudo as shown below. On Windows, you will not use the sudo part of the command.
 `sudo npm install -g grunt-cli
 sudo npm install -g grunt-init`
